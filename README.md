@@ -3,12 +3,6 @@
 
 This repository contains the source code for a simple web application that combines multiple email addresses using the DuckDuckGo Email Protection service. The application is hosted on PythonAnywhere and can be accessed [here](https://gingerbreadmat.pythonanywhere.com/).
 
-## Features
-
--   **Combine Email Addresses**: Easily combine multiple email addresses using the DuckDuckGo Email Protection service.
--   **User-Friendly Interface**: Simple and intuitive web interface for combining emails.
--   **Secure and Private**: Ensures privacy and security by leveraging DuckDuckGo's privacy-focused services.
-
 ## Usage
 
 To use the application, follow these steps:
