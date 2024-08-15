@@ -99,3 +99,11 @@ The application is deployed on PythonAnywhere. To deploy your own instance, foll
 5.  Reload the web app to apply the changes.
 
 For detailed instructions on deploying Flask applications on PythonAnywhere, refer to the official documentation.
+
+## Support the Project
+
+If you find this project helpful and would like to support its development, you can buy me a coffee! Your support is greatly appreciated and helps keep this project going.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow.svg)](https://buymeacoffee.com/gingerbreadmat)
+
+[Buy Me A Coffee](https://buymeacoffee.com/gingerbreadmat)
